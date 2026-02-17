@@ -205,8 +205,12 @@ body{
     .navbar__s4{
         display: block;
     }
+    topics__container p{
+        flex-basis: 20%;
+    }
 } 
     
     
     
     
+
