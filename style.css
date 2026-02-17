@@ -210,7 +210,13 @@ body{
     }
 } 
     
+ @media screen and (min-width:320px) and (max-width:480px){
+    .topics__container p{
+        flex-basis: 20%;
+    }
+
+   }    
     
     
-    
+
 
