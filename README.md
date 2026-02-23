@@ -14,8 +14,6 @@ It focuses on layout, styling, and responsiveness using core web technologies.
 - HTML5  
 - CSS3  
 
-## 📸 Screenshots
-_Add screenshots of your project here_
 
 ## 📂 Project Structure
 Udemy-Clone/
@@ -33,8 +31,6 @@ Udemy-Clone/
 This project is created **only for educational purposes**.  
 All design inspiration belongs to **Udemy**. This is **not an official Udemy product**.
 
-## 🌐 Live Demo
-_Add your GitHub Pages / Netlify link here_
 
 ## ✨ Author
 **G Muniammal**  
